@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recepty>
+    <recept>
+        <nazev>Rychlý koláč - výborný!</nazev>
+        <prisada nazev='hladká mouka' mnozstvi='30' jednotka='dkg' />
+        <prisada nazev='jablka na hrubo nastrouhaná' mnozstvi='30' jednotka='dkg' />
+        <prisada nazev='cukr krystal' mnozstvi='15' jednotka='dkg' />
+        <prisada nazev='vejce' mnozstvi='2' jednotka='ks' />
+        <prisada nazev='kakao' mnozstvi='2' jednotka='lžíce' />
+        <prisada nazev='tuk' mnozstvi='8' jednotka='dkg' />
+        <prisada nazev='prášek do pečiva' mnozstvi='1' jednotka='sáček' />
+        <prisada nazev='oříšky' />
+        <prisada nazev='kandované ovoce' />
+        <postup>Vejce utřeme s cukrem a postupně vše zamícháme. Pečeme na papíru nebo vymaštěném a vysypaném plechu. Upečené necháme vychladnout, můžeme marmeládou a nahoru udělat citronovou polevu. Je dobrý i jenom ???.</postup>
+    </recept>
+    <recept>
+        <nazev>Koláč s jablky a tvarohem</nazev>
+        <prisada nazev='polohrubá mouka' mnozstvi='30' jednotka='dkg' />
+        <prisada nazev='cukr moučkový' mnozstvi='10' jednotka='dkg' />
+        <prisada nazev='máslo/jiný tuk' mnozstvi='10' jednotka='dkg' />
+        <prisada nazev='vejce' mnozstvi='1' jednotka='ks' />
+        <prisada nazev='mléko' mnozstvi='3-4' jednotka='polévkové lžíce' />
+        <prisada nazev='prášek do pečiva' mnozstvi='1' jednotka='sáček' />
+        <prisada nazev='jablka' />
+        <prisada nazev='skořice' />
+        <postup>Vypracujeme těsto, rozdělíme na dva díly (jeden větší), ten větší rozválíme nebo namačkáme na tukem vymazaný plech či pečící papír. Jako náplň nastrouháme jablko, posypeme skořicí a cukrem krupice. ???.</postup>
+    </recept>
+    <recept>
+        <nazev>Buchta Lada</nazev>
+        <prisada nazev='polohrubá mouka' mnozstvi='200' jednotka='g' />
+        <prisada nazev='cukr' mnozstvi='12' jednotka='dkg' />
+        <prisada nazev='vanilkový cukr' mnozstvi='1' jednotka='sáček' />
+        <prisada nazev='vejce' mnozstvi='3' jednotka='ks' />
+        <prisada nazev='prášek do pečiva' mnozstvi='1/2' jednotka='sáčku' />
+        <prisada nazev='olej' mnozstvi='100' jednotka='ml' />
+        <prisada nazev='mléko' mnozstvi='50' jednotka='ml' />
+        <prisada nazev='ovoce' />
+        <prisada nazev='drobenka' />
+        <prisada nazev='ořechy' />
+        <postup>Žloutky utřeme s polovinou cukru, přidáme olej, mouku, prášek do pečiva a mléko. Bílky s druhou polovinou cukru ušleháme na sníh a smícháme. Ozdobíme ovocem, drobenkou a ořechy.</postup>
+    </recept>
+    <recept>
+        <nazev>Tvarohový koláč ovocný</nazev>
+        <prisada nazev='máslo' mnozstvi='1/8' />
+        <prisada nazev='mouka' mnozstvi='25' jednotka='dkg' />
+        <prisada nazev='cukr' mnozstvi='8+15' jednotka='dkg' />
+        <prisada nazev='vejce' mnozstvi='1+1' jednotka='ks' />
+        <prisada nazev='prášek do pečiva' mnozstvi='1/2' jednotka='sáčku' />
+        <prisada nazev='tvaroh' mnozstvi='50' jednotka='dkg' />
+        <prisada nazev='pudink' mnozstvi='1.5' jednotka='sáčku' />
+        <prisada nazev='mléko' mnozstvi='1/2' jednotka='l' />
+        <postup>Z másla, mouky, 8 dkg cukru a 1 vejce uděláme těsto, rozválíme, vložíme do hlubšího plechu. Potřeme zavařeninou, vyskládáme na ni ovoce. Z tvarohu, zbylého cukru, 1 vejce a připraveného pudinku vytvoříme krém, který nalijeme navrch.</postup>
+    </recept>
+    <recept>
+        <nazev>Mřížkový koláč s povidly</nazev>
+        <prisada nazev='máslo' mnozstvi='150' jednotka='g' />
+        <prisada nazev='moučkový cukr' mnozstvi='70' jednotka='g' />
+        <prisada nazev='vanilkový cukr' mnozstvi='2' jednotka='sáčky' />
+        <prisada nazev='vejce' mnozstvi='1' jednotka='ks' />
+        <prisada nazev='hladká mouka' mnozstvi='300' jednotka='g' />
+        <prisada nazev='citronová kůra' mnozstvi='2' jednotka='lžíce' />
+        <prisada nazev='švestková povidla' mnozstvi='400' jednotka='g' />
+        <postup>Smícháme máslo a curk, přidáme rozšlehané vejce, mouku a citronovou kůru. Vypracujeme těsto a necháme 30 minut v lednici. Dvě třetiny těsta použijeme v dortové formě jako základ, zbytek na mřížky.</postup>
+    </recept>
+    <recept>
+        <nazev>Tvarohová buchta (Zuzka) - dort</nazev>
+        <prisada nazev='polohrubá mouka' mnozstvi='225' jednotka='g' />
+        <prisada nazev='cukr' mnozstvi='90+200' jednotka='g' />
+        <prisada nazev='Hera' mnozstvi='135' jednotka='g' />
+        <prisada nazev='vejce celé' mnozstvi='1+1' jednotka='ks' />
+        <prisada nazev='žloutek' mnozstvi='1' jednotka='ks' />
+        <prisada nazev='tvaroh' mnozstvi='500' jednotka='g' />
+        <prisada nazev='vanilkový cukr' mnozstvi='2' jednotka='sáčky' />
+        <prisada nazev='bílý jogurt' mnozstvi='1' jednotka='kelímek' />
+        <prisada nazev='zakysaná smetana' mnozstvi='2' jednotka='kelímky' />
+        <prisada nazev='mléko' mnozstvi='500' jednotka='ml' />
+        <prisada nazev='pudink' mnozstvi='1' jednotka='sáček' />
+        <postup>Těsto připravíme z mouky, 90 g cukru, Hery, 1 celého vejce a 1 žloutku. Náplň připravíme z tvarohu, 200 g cukru, vejce, vanilkového cukru, jogurtu, smetany, mléka a pudinku. Pečeme 1,5 hodiny při 175 °C.</postup>
+    </recept>
+    <recept>
+        <nazev>Palačinky</nazev>
+        <prisada nazev='mléko' mnozstvi='500' jednotka='ml' />
+        <prisada nazev='vejce' mnozstvi='2' jednotka='ks' />
+        <prisada nazev='hladká mouka' mnozstvi='200' jednotka='g' />
+        <prisada nazev='olej či rozpuštěné máslo' mnozstvi='6-8' jednotka='lžic' />
+        <prisada nazev='sůl' mnozstvi='1' jednotka='špetka' />
+        <prisada nazev='cukr' mnozstvi='1' jednotka='špetka' />
+        <postup>Rozmixujeme mléko, vejce, mouku a olej. Necháme odležet, přidáme špetku soli a cukru a usmažíme na suché pánvi.</postup>
+    </recept>
+    <recept>
+        <nazev>Tvarohový dort za studena</nazev>
+        <prisada nazev='tvaroh' mnozstvi='750' jednotka='g' />
+        <prisada nazev='moučkový cukr' mnozstvi='130' jednotka='g' />
+        <prisada nazev='mléko' mnozstvi='trocha' />
+        <prisada nazev='máslo' mnozstvi='125' jednotka='g' />
+        <prisada nazev='dětské piškoty' mnozstvi='1' jednotka='balíček' />
+        <prisada nazev='zavařenina či kompot' mnozstvi='3' jednotka='lžíce' />
+        <prisada nazev='šlehačka' mnozstvi='250' jednotka='ml' />
+        <prisada nazev='svařené mléko' mnozstvi='250' jednotka='ml' />
+        <prisada nazev='želatina předem namočená' mnozstvi='50' jednotka='g' />
+        <prisada nazev='kakao na obarvení' />
+        <prisada nazev='rum na dochucení' />
+        <postup>Namočíme želatinu na 24 hod. Poté utřeme máslo s cukrem, přidáme tvaroh, mléko a ušleháme jemný krém. Želatinu rozehřejeme ve vodní lázni (asi 2 min.), poté přecedíme do krému a zašleháme. K polovině krému můžeme přidat kakao. Do dortové formy vyskládáme piškoty s rumem a mlékem, potřeme zavařeninou či kompotem, nalijeme krém a 2-3 hodiny chladíme v ledničce. Před podáváním ozdobíme neslazenou šlehačkou.</postup>
+    </recept>
+    <recept>
+        <nazev>Lívance z kyselého mléka</nazev>
+        <prisada nazev='kyselé mléko' mnozstvi='500' jednotka='ml' />
+        <prisada nazev='vejce' mnozstvi='2' jednotka='ks' />
+        <prisada nazev='polohrubá mouka' mnozstvi='250' jednotka='g' />
+        <prisada nazev='cukr' mnozstvi='1' jednotka='lžíce' />
+        <prisada nazev='prášek do pečiva' mnozstvi='1/2' jednotka='sáčku' />
+        <prisada nazev='sůl' mnozstvi='trocha' />
+        <postup>Do těsta použijeme žloutky, z bílků ušleháme sníh.</postup>
+    </recept>
+    <recept>
+        <nazev>Štrůdl Lada</nazev>
+        <prisada nazev='hladká mouka' mnozstvi='200' jednotka='g' />
+        <prisada nazev='hrubá mouka' mnozstvi='200' jednotka='g' />
+        <prisada nazev='tuk' mnozstvi='200' jednotka='g' />
+        <prisada nazev='vejce' mnozstvi='1' jednotka='ks' />
+        <prisada nazev='droždí' mnozstvi='40' jednotka='g' />
+        <prisada nazev='cukr'/>
+        <prisada nazev='mléko'/>
+        <prisada nazev='jablka' />
+        <prisada nazev='ořechy' />
+        <prisada nazev='skořice' />
+        <prisada nazev='rozinky' />
+        <prisada nazev='vanilkový cukr' mnozstvi='1' jednotka='sáček' />
+        <postup>Mouka, tuk, vejce, droždí, cukr a mléko je na těsto, zbytek na náplň.</postup>
+    </recept>
+    <recept>
+        <nazev>Babiččina vánočka</nazev>
+        <prisada nazev='mouka hladká' mnozstvi='375' jednotka='g' />
+        <prisada nazev='mouka polohrubá' mnozstvi='375' jednotka='g' />
+        <prisada nazev='tuk (Hera)' mnozstvi='150' jednotka='g' />
+        <prisada nazev='cukr' mnozstvi='150' jednotka='g' />
+        <prisada nazev='žloutky' mnozstvi='4' jednotka='ks' />
+        <prisada nazev='droždí čerstvé' mnozstvi='50' jednotka='g' />
+        <prisada nazev='mléko' mnozstvi='333' jednotka='ml' />
+        <prisada nazev='sůl' mnozstvi='1' jednotka='lžička' />
+        <prisada nazev='citronová kůra' />
+        <prisada nazev='vanilka' />
+        <prisada nazev='rozinky' />
+        <prisada nazev='mandle' />
+        <prisada nazev='vejce na potření' mnozstvi='1' jednotka='ks' />
+        <postup>Založíme kvásek (droždí s trochou mléka, trochou mouky a trochou cukru). Smícháme mouku, tuk, cukr a žloutky, citronovu kůru, vanilku. Přilijeme mléko a kvásek a zaděláme těsto. Necháme kynout. Přidáme rozinky a část nasekaných mandlí. Vytvoříme snopce a pleteme vánočky, můžeme plést z 9 (po patrech 4 snopce na 1. patro, 3 snopce na 2. patro, 2. snopce na 3. patro) nebo najednou z 6 či 8 snopců. Lze udělat 2 menší vánočky ze 6 snopců, snáze se pletou. Necháme ještě trochu vykynout, potřeme vajíčkem, posypeme mandlemi a pečeme cca 15 min. na 180 °C, dále na 160 °C, dokud nejsou vánočky propečené, hlídáme, aby se mandle ani vánočky nespálily, přesouváme v troupě tak, aby se propekly rovnoměrně.</postup>
+    </recept>
+    <recept>
+        <nazev>Tvarohové ovocné knedlíky</nazev>
+        <prisada nazev='tvaroh (červený)' mnozstvi='1' jednotka='kelímek' />
+        <prisada nazev='hladká mouka' mnozstvi='1' jednotka='lžíce' />
+        <prisada nazev='krupička' mnozstvi='1' jednotka='lžíce' />
+        <prisada nazev='cukr' mnozstvi='1' jednotka='lžíce' />
+        <prisada nazev='vejce' mnozstvi='1' jednotka='ks' />
+        <prisada nazev='sůl' mnozstvi='1' jednotka='špetka' />
+        <prisada nazev='ovoce' />
+        <postup>Smícháme ingredience, připravíme koule o průměru cca 5 cm, uvaříme ve slané vodě, teplé polijeme ovocem, např. jahodami s cukrem, polijeme smetanou.</postup>
+    </recept>
+    <recept>
+        <nazev>Briošky ze Sokola (Lída)</nazev>
+        <prisada nazev='hladká mouka' mnozstvi='350' jednotka='g' />
+        <prisada nazev='žloutky' mnozstvi='3' jednotka='ks' />
+        <prisada nazev='vejce celé' mnozstvi='1' jednotka='ks' />
+        <prisada nazev='máslo' mnozstvi='50' jednotka='g' />
+        <prisada nazev='droždí' mnozstvi='1' jednotka='kostka' />
+        <prisada nazev='mléko' mnozstvi='250' jednotka='ml' />
+        <prisada nazev='cukr na kvásek' />
+        <prisada nazev='sůl' mnozstvi='1' jednotka='špetka' />
+        <postup>Z části mléka, cukru, mouky a droždí připravíme kvásek. Následně zapracujeme těsto z mouky, žloutků, másla, mléka a kvásku, necháme vykynout, vytvoříme válečky, potřeme vejcem rozšlehaným se špetkou soli, necháme cca 15 min. dokynout, než se rozpálí troupa. Poté pomalu pečeme.</postup>
+    </recept>
+    <recept>
+        <nazev>Rychlý dobrý koláč</nazev>
+        <prisada nazev='mouka' mnozstvi='300' jednotka='g' />
+        <prisada nazev='cukr' mnozstvi='200' jednotka='g' />
+        <prisada nazev='máslo' mnozstvi='100' jednotka='g' />
+        <prisada nazev='máslo na vymazání' />
+        <prisada nazev='mléko' mnozstvi='250' jednotka='ml' />
+        <prisada nazev='vejce' mnozstvi='1' jednotka='ks' />
+        <prisada nazev='sůl' mnozstvi='1' jednotka='špetka' />
+        <prisada nazev='prášek do pečiva' mnozstvi='1' jednotka='sáček' />
+        <prisada nazev='jablka či jiné ovoce' />
+        <prisada nazev='vanilka' />
+        <postup>Smícháme mouku, cukr, máslo, mléko, vejce, sůl, prášek do pečiva, těsta dáme do vymazaného pekáče, poklademe nakrájenými jablky a posypeme vanilkou. Případně můžeme posypat ovesnými vločkami a zalít mlékem.</postup>
+    </recept>
+</recepty>
